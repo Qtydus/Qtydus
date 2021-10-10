@@ -10,4 +10,3 @@
 - Social Media Manager
 - VFX
 - OBS operator
-- Photographer
